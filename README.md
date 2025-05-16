@@ -1,6 +1,6 @@
 # Hi there, I'm Sriyan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. My focus is on building efficient and scalable systems, and I enjoy leveraging AI and cutting-edge technology to solve real-world problems. I am currently searching for an internship for Summer 2025, Fall 2026, or Summer 2026, so please reach out at sriyan@umich.edu!
+Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. My focus is on building efficient and scalable systems, and I enjoy leveraging AI and cutting-edge technology to solve real-world problems. I am currently searching for an internship for Fall 2026 or Summer 2026, so please reach out at sriyan@umich.edu!
 
 ## 🖥️ Tech Stack:
 
