@@ -1,11 +1,12 @@
 # Hi there, I'm Sriyan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. Currently building @ [Coshii](https://www.coshii.com). Searching for an internship for Fall 2026 or Summer 2026, so please reach out at sriyan@umich.edu!
+Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. Incoming @ [Databricks](https://www.databricks.com). Currently building @ [Coshii](https://www.coshii.com). Searching for an internship for Fall 2026 or Winter 2027, so please reach out at sriyan@umich.edu!
 
 ## 🖥️ Tech Stack:
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
