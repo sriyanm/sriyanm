@@ -1,6 +1,6 @@
 # Hi there, I'm Sriyan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. Incoming @ [Databricks](https://www.databricks.com). Currently building @ [Coshii](https://www.coshii.com). Searching for an internship for Fall 2026 or Winter 2027, so please reach out at sriyan@umich.edu!
+Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. Incoming @ [Databricks](https://www.databricks.com). Currently building @ [Coshii](https://www.coshii.com). Interested in data, AI, cloud computing, and ML infra. Searching for an internship for Fall 2026 or Winter 2027, so please reach out at sriyan@umich.edu!
 
 ## 🖥️ Tech Stack:
 
